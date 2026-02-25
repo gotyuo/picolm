@@ -22,7 +22,7 @@
 ## The Perfect Match: PicoLM + PicoClaw
 
 <div align="center">
-  <img src="picolm.jpg" alt="PicoLM — Run a 1-billion parameter LLM on a $10 board" width="640">
+  <img src="picolm.jpg" alt="PicoLM — Run a 1-billion parameter LLM on a $10 board需要结合https://github.com/gotyuo/picolm一起使用" width="640">
   <br><br>
 </div>
 
